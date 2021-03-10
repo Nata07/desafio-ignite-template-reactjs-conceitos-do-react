@@ -1,16 +1,15 @@
 <h1 align="center">
-    Git Explorer
+    TO.DO ✔
 </h1>
-<p align="center"> Aplicação para aprender os conceitos básicos do ReactJS 💻🚀 </p>
+<p align="center"> Controle de Tarefas 💻🚀 </p>
 
-Aplicação simples, com integração da api do Github, para treinar e aperfeiçoar
-os conceitos básicos do ReactJS. O projeto foi criado inteiramente do zero, sem nenhum
-comando como create react-app, ou algo do tipo.
-Nela aprendemos a configurar o babel, webpack e também o typescript.
+Essa será um projeto onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
-<h2 id="technologies"> 🛠 Tecnologias </h2>
+<h2 id="technologies"> 🛠 Funcionalidades </h2>
 
-- [ReactJS](https://reactjs.org)
+- Adicionar uma nova tarefa;
+- Remover uma tarefa;
+- Marcar e desmarcar uma tarefa como concluída;
 
 <h2 id="author"> 💻 Autor </h2>
 
